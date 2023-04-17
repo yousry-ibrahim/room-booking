@@ -1,6 +1,6 @@
 Room Booking Api (Yousry)
 
-# used Technologies and tools:
+# Used Technologies and tools:
 
 * Java 1.17
 * Spring WEB, Spring Boot, Spring Data
@@ -11,7 +11,7 @@ Room Booking Api (Yousry)
 * Docker
 
 
-# task description and how to run
+# Task description and how to run
 
 - while starting the APIs, H2 DB will execute *data.sql* scripts for initial data insertion.
   
